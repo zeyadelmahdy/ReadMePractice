@@ -1,7 +1,7 @@
 # A Beautiful Read Me - Lab 1 - Week 4
 by [Zeyad ElMahdy](https://github.com/zeyadelmahdy)
 
-![ReadMePractice](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/abeautifulreadme.png)
+![Photos](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/Photos/abeautifulreadme.png)
 
 ## Analysing Student Performance in USA Highschool
 
@@ -48,8 +48,8 @@ This allowed us to get the full picture when comparing test scores
 
 Below you will find an overview of graphs that will help visulize our findings. 
 
-![ReadMePractice](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/download.png)
-![ReadMePractice](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/download%20(1).png)
+![Photos](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/Photos/download.png)
+![Photos](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/Photos/download%20(1).png)
 
 - For more visulizations, please see the original Jupyter Notebook [here](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/Student%20Performance.ipynb)
 
