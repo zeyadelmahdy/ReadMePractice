@@ -20,7 +20,7 @@ by [Zeyad ElMahdy](https://github.com/zeyadelmahdy)
 ## Analysis Overview
 
 Task at hand: We are presented with a dataset from an unknown highschool in the USA that includes test scores and certain categorical features for each student (race, gender..) The task is to present initial highlights/insights found in data on each category.
-- You can view the raw data [here](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/StudentsPerformance.csv)
+- You can view the raw data [here](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/Data%20and%20Python%20Code/StudentsPerformance.csv)
 
 
 ## Methodology
@@ -51,7 +51,7 @@ Below you will find an overview of graphs that will help visulize our findings.
 ![Photos](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/Photos/download.png)
 ![Photos](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/Photos/download%20(1).png)
 
-- For more visulizations, please see the original Jupyter Notebook [here](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/Student%20Performance.ipynb)
+- For more visulizations, please see the original Jupyter Notebook [here](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/Data%20and%20Python%20Code/Student%20Performance.ipynb)
 
 ## Findings
 
