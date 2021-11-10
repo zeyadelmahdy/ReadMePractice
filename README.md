@@ -1,4 +1,4 @@
-# A Beautiful Read Me - Lab Week 4 of Ironhack DAFT Bootcamp
+# A Beautiful Read Me - Lab 1 - Week 4
 by [Zeyad ElMahdy](https://github.com/zeyadelmahdy)
 
 ![ReadMePractice](https://github.com/zeyadelmahdy/ReadMePractice/blob/main/abeautifulreadme.png)
@@ -10,10 +10,10 @@ by [Zeyad ElMahdy](https://github.com/zeyadelmahdy)
 
 ## Table of content
 
-- [Analysis Overview](Analysis-Overview)
-- [Methodology](Methodolgy)
-- [Visualization](Visualization)
-- [Findings](Findings)
+- [Analysis Overview](#analysis-overview)
+- [Methodology](#methodology)
+- [Visualization](#visualization)
+- [Findings](#findings)
 
 
 
